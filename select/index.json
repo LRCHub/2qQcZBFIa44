@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "FLOP ERA",
+  "base_artist": "ePiaeon",
+  "createdAt": "2026-03-31T19:18:12.890246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FLOP ERA",
+      "artist": "ePiaeon",
+      "has_synced": true,
+      "path": "select/01_FLOP_ERA_ePiaeon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FLOP ERA (Trendy Version)",
+      "artist": "ePiaeon",
+      "has_synced": true,
+      "path": "select/02_FLOP_ERA_(Trendy_Version)_ePiaeon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FLOP ERA - Trendy Version",
+      "artist": "ePiaeon",
+      "has_synced": true,
+      "path": "select/03_FLOP_ERA_-_Trendy_Version_ePiaeon.lrc"
+    }
+  ]
+}
